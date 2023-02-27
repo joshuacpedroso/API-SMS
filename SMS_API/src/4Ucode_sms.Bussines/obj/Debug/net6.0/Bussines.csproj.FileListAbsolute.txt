@@ -1,0 +1,24 @@
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\bin\Debug\net6.0\Bussines.deps.json
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\bin\Debug\net6.0\Bussines.dll
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\bin\Debug\net6.0\Bussines.pdb
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.csproj.AssemblyReference.cache
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.AssemblyInfoInputs.cache
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.AssemblyInfo.cs
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.csproj.CoreCompileInputs.cache
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.dll
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\refint\Bussines.dll
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.pdb
+C:\Projetos\C#\PROJETOS 4UCode\SMS_4Ucode\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\ref\Bussines.dll
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\bin\Debug\net6.0\Bussines.deps.json
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\bin\Debug\net6.0\Bussines.dll
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\bin\Debug\net6.0\Bussines.pdb
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.csproj.AssemblyReference.cache
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.AssemblyInfoInputs.cache
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.AssemblyInfo.cs
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.csproj.CoreCompileInputs.cache
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.dll
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\refint\Bussines.dll
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\Bussines.pdb
+E:\Projetos\SMS\SMS_4Ucode\src\4Ucode_sms.Bussines\obj\Debug\net6.0\ref\Bussines.dll

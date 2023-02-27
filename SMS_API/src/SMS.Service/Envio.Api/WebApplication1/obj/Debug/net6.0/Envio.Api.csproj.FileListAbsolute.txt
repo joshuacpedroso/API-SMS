@@ -1,0 +1,7 @@
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.csproj.AssemblyReference.cache
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.AssemblyInfoInputs.cache
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.AssemblyInfo.cs
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.csproj.CoreCompileInputs.cache
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos\SMS\SMS_4Ucode\src\SMS.Service\Envio.Api\WebApplication1\obj\Debug\net6.0\Envio.Api.MvcApplicationPartsAssemblyInfo.cache
