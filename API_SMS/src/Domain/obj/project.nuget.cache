@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "CpaAGO/TE+sCHfHbjxAh/UItQ+3IoycJDMeJc4ZazqyM/bBmFmf28rtmQlVdMj8LR2NlGgmKwNJ9axrWIE+BqA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\C#\\PROJETOS 4UCode\\SMS_4Ucode\\4Ucode-API-SMS\\SMS_4Ucode\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
